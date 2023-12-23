@@ -75,7 +75,7 @@
 		5B01CC312B36EAA8005B76DE = {
 			isa = PBXGroup;
 			children = (
-				5B01CC3C2B36EAA8005B76DE /* Snake */,
+				5B01CC3C2B36EAA8005B76DE /* SnakeSwift */,
 				5B01CC4E2B36EAA9005B76DE /* SnakeTests */,
 				5B01CC582B36EAA9005B76DE /* SnakeUITests */,
 				5B01CC3B2B36EAA8005B76DE /* Products */,
@@ -92,7 +92,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		5B01CC3C2B36EAA8005B76DE /* Snake */ = {
+		5B01CC3C2B36EAA8005B76DE /* SnakeSwift */ = {
 			isa = PBXGroup;
 			children = (
 				5B01CC3D2B36EAA8005B76DE /* SnakeApp.swift */,
@@ -101,7 +101,7 @@
 				5B01CC432B36EAA9005B76DE /* Snake.entitlements */,
 				5B01CC442B36EAA9005B76DE /* Preview Content */,
 			);
-			path = Snake;
+			path = SnakeSwift;
 			sourceTree = "<group>";
 		};
 		5B01CC442B36EAA9005B76DE /* Preview Content */ = {
