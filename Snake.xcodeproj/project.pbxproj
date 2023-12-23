@@ -416,10 +416,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = Snake/Snake.entitlements;
+				CODE_SIGN_ENTITLEMENTS = SnakeSwift/Snake.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Snake/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"SnakeSwift/Preview Content\"";
 				DEVELOPMENT_TEAM = ZQJ74C59J7;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
@@ -454,10 +454,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = Snake/Snake.entitlements;
+				CODE_SIGN_ENTITLEMENTS = SnakeSwift/Snake.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Snake/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"SnakeSwift/Preview Content\"";
 				DEVELOPMENT_TEAM = ZQJ74C59J7;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
